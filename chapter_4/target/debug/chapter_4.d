@@ -1,0 +1,1 @@
+C:\Users\damab\rust-projects\rust-projects\chapter_4\target\debug\chapter_4.exe: C:\Users\damab\rust-projects\rust-projects\chapter_4\src\main.rs C:\Users\damab\rust-projects\rust-projects\chapter_4\src\ownership.rs C:\Users\damab\rust-projects\rust-projects\chapter_4\src\references.rs C:\Users\damab\rust-projects\rust-projects\chapter_4\src\slices.rs
