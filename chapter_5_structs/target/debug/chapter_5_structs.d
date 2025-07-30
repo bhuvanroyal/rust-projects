@@ -1,0 +1,1 @@
+C:\Users\damab\rust-projects\rust-projects\chapter_5_structs\target\debug\chapter_5_structs.exe: C:\Users\damab\rust-projects\rust-projects\chapter_5_structs\src\Rectangle_functions.rs C:\Users\damab\rust-projects\rust-projects\chapter_5_structs\src\main.rs C:\Users\damab\rust-projects\rust-projects\chapter_5_structs\src\method_syntax.rs
