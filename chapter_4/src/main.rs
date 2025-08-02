@@ -12,7 +12,7 @@ fn main() {
     // ownership::string_demo();
 
     let s1=String::from("bhuvan");
-//  here the value of s1 is moved to s2 and ownership also moved, after assigning s11 to s2 if we try to print s1 it wont compile
+//  here the value of s1 is moved to s2 and ownership also moved, after assigning s1 to s2 if we try to print s1 it wont compile
     let s2=s1;
     println!("{s2}");
 
