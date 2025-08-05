@@ -1,4 +1,5 @@
 mod string_demo;
+mod maps_demo;
 
 fn main() {
 
@@ -43,6 +44,6 @@ for i in &mut v{
 
 println!("after changing {:?}",v);
 string_demo::string_examples();
-
+maps_demo::maps_example();
 
 }
